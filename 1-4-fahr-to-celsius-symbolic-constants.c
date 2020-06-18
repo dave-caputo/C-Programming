@@ -4,7 +4,7 @@
  * - Use `#define` to define a `symbolic name` or `symbolic constant`.
  * - It will be replaced by its `replacement text` which can be any sequence of characters (not limited to numbers).
  * - They are written in capital letters.
- * - Defining them do
+ * - Note that they are defined without a trailing semicolon.
 */
 
 #include <stdio.h>
