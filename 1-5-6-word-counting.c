@@ -1,6 +1,7 @@
 /*
 * NOTES:
-* - This program is straightforward, so no additional notes have been added.
+* - This program is straightforward, so few additional notes have been added.
+  - Here, again, we are using `character constants` which are represented by an integer with their numerical value.
 */
 
 #include <stdio.h>
