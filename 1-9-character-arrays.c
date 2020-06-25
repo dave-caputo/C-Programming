@@ -44,7 +44,7 @@ int main()
     return 0;
 }
 
-/* getline: read a line into s, return length */
+/* gettline: read a line into s, return length */
 int gettline(char s[], int lim)
 {
     int c, i;
