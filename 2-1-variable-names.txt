@@ -1,0 +1,16 @@
+CHAPTER 2: INTRO NOTES:
+- `Variables` and `constants` are the basic data objects manipulated in a program.
+- `Declarations` list the variables to be used, and state what type they have and, perhaps, their initial values.
+- `Operators` specify what is to be done to them.
+- `Expressions` combine variables and constants to produce new values.
+- The `type` of an object determines the set of values it can have and what operations can be performed on it.
+
+NOTES:
+- The first character of a variable name should be a letter.
+- The underscore `_` counts as a letter.
+- Don't begin variable names with underscore, because the library routines often use such names.
+- Use lower case for variable names and upper case for symbolic constants.
+- At least the first 31st characters of an internal name are significant. For function names and external variables
+   the number maybe less than 31 because external names may be used by assemblers and loaders over which the the
+   language has no control (The ANSI standard guarantees uniqueness up to six characters and a single case).
+- Use `shorter` names for local variables and `longer` names for external variables.
